@@ -1,0 +1,617 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H3G2nfsDERohZMoC1QQWXlpjM8Ax8ECSS+wsHNyr3zIEi/q4snusANIj4gfOmxGq
+ v29mQiUb8HgPKdELl0vt7A==
+
+<SEC-DOCUMENT>0001193125-06-045107.txt : 20060303
+<SEC-HEADER>0001193125-06-045107.hdr.sgml : 20060303
+<ACCEPTANCE-DATETIME>20060303164058
+ACCESSION NUMBER:		0001193125-06-045107
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060303
+DATE AS OF CHANGE:		20060303
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14278
+		FILM NUMBER:		06664428
+
+	BUSINESS ADDRESS:
+		STREET 1:		ONE MICROSOFT WAY #BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		4258828080
+
+	MAIL ADDRESS:
+		STREET 1:		ONE MICROSOFT WAY - BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>d10qa.htm
+<DESCRIPTION>FORM 10-Q AMENDMENT NO. 1
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-Q Amendment No. 1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="5"><B>FORM 10-Q/A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>Amendment No.&nbsp;1 </B></FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><FONT FACE="WINGDINGS">&#120;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">For the Quarterly Period Ended December&nbsp;31, 2005 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">OR </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">For the Transition Period From <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Commission
+File Number: 0-14278 </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>MICROSOFT CORPORATION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Washington</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>91-1144442</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction of</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>incorporation or organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>One Microsoft Way, Redmond, Washington</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>98052-6399</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(425)&nbsp;882-8080 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>None
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former name, former address and former fiscal year, if changed since last report) </B></FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the
+registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and
+(2)&nbsp;has been subject to such filing requirements for the past 90&nbsp;days.&nbsp;Yes&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;No&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2"> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.
+See definition of &#147;accelerated filer and large accelerated filer&#148; in Rule&nbsp;12b-2 of the Exchange Act. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Large accelerated
+filer&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Accelerated filer&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;Non-accelerated filer&nbsp;</FONT><FONT
+FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).&nbsp;Yes&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;No&nbsp;<FONT
+FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Indicate the number of shares outstanding of each of the issuer&#146;s classes of common stock, as of the
+latest practicable date. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Class</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Outstanding at January&nbsp;23,
+2006</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Common Stock, $0.00000625 par value per share</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">10,333,368,967 shares</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:24px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MICROSOFT CORPORATION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>FORM 10-Q/A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Amendment No.&nbsp;1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXPLANATORY NOTE </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This amendment on Form 10-Q/A is being filed to revise Part
+II &#151; Other Information of the Quarterly Report on Form 10-Q for the quarter ended December&nbsp;31, 2005 that was filed on January&nbsp;26, 2006 (&#147;the Report&#148;) to correct the inadvertent omission of Item&nbsp;4 &#151; Submission of
+Matters to a Vote of Security Holders. This amendment to the Report does not alter any part of the content of the Report, except for the changes and additional information provided herein. This amendment continues to speak as of the date of the
+Report. We have not updated the disclosures contained in this amendment to reflect any events that occurred at a date subsequent to the filing of the Report. The filing of this amendment is not a representation that any statements contained in the
+Report or this amendment are true or complete as of any date subsequent to the date of the Report. This amendment does not affect the information originally set forth in the Report, the remaining portions of which have not been amended. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MICROSOFT CORPORATION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>FORM 10-Q/A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Amendment No.&nbsp;1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>For the Quarter Ended December&nbsp;31, 2005 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="toc"></A>INDEX </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="89%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Page</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B><I>Part&nbsp;II.</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><B><I>Other Information</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#tx31721_1">Item 4. Submission of Matters to a Vote of Security Holders</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">
+<A HREF="#tx31721_2">Item 6. Exhibits</A></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B><I>
+<A HREF="#tx31721_3">Signature </A></I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Part II. Other Information </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="tx31721_1"></A>Submission of Matters to a Vote of Security Holders </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Annual Meeting of Shareholders was held on
+November&nbsp;9, 2005. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The following proposals were adopted by the margins indicated: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">1. To elect a Board of Directors to hold office until the next annual meeting of shareholders and until their successors are elected and qualified. </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="75%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Number of Shares</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>For</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Withheld</B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">William H. Gates III</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,198,796,427</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">168,669,231</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Steven A. Ballmer</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,202,021,813</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">165,443,845</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">James I. Cash, Jr.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,263,213,783</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">104,251,875</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dina Dublon</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,266,732,124</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">200,733,534</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Raymond V. Gilmartin</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,246,889,225</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">120,576,433</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Ann McLaughlin Korologos</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,154,228,255</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">213,237,403</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">David F. Marquardt</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,190,326,638</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">177,139,020</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Charles H. Noski</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,279,951,749</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">87,513,909</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Helmut Panke</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,278,568,180</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">88,897,478</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Jon A. Shirley</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,194,313,368</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">173,152,290</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. To ratify selection of Deloitte&nbsp;&amp; Touche LLP as the Company&#146;s independent auditor for fiscal year
+2006. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="85%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">For</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,187,441,887</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Against</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">119,234,940</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Abstain</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">60,788,831</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Item&nbsp;6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="tx31721_2"></A>Exhibits </B></FONT></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">31.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">32.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">32.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>
+<A NAME="tx31721_3"></A>SIGNATURE </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned thereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD COLSPAN="3" VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Microsoft Corporation</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Date: March 3, 2006</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;C<SMALL>HRISTOPHER</SMALL> P.
+L<SMALL>IDDELL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Christopher P. Liddell</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Senior Vice President; Chief Financial Officer;</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Chief Accounting Officer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(principal financial officer</B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>and duly authorized officer)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>dex311.htm
+<DESCRIPTION>CERTIFICATION OF CEO
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certification of CEO</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Exhibit 31.1 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>CERTIFICATIONS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">I, Steven A. Ballmer, certify that: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">1. I have reviewed this quarterly report on Form 10-Q/A of Microsoft Corporation; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4.
+The registrant&#146;s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">b) Designed such internal control over financial reporting, or caused such internal control over
+financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">c) Evaluated the effectiveness of the registrant&#146;s disclosure controls and procedures and presented in this report our
+conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">d) Disclosed in this report any change in the registrant&#146;s internal control over financial reporting that occurred during the registrant&#146;s most recent fiscal quarter (the registrant&#146;s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to materially affect, the registrant&#146;s internal control over financial reporting; and </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">5. The registrant&#146;s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant&#146;s auditors and the audit committee of registrant&#146;s board
+of directors (or persons performing the equivalent functions): </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">a) All significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to adversely affect the registrant&#146;s ability to record, process, summarize and report financial information; and </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant&#146;s internal control over financial
+reporting. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="43%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 3, 2006</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Steven A. Ballmer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Steven A. Ballmer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chief Executive Officer</FONT></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>3
+<FILENAME>dex312.htm
+<DESCRIPTION>CERTIFICATION OF CFO
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certification of CFO</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Exhibit 31.2 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>CERTIFICATIONS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">I, Christopher P. Liddell, certify that: </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1. I have reviewed this quarterly report on Form 10-Q/A of Microsoft Corporation; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4. The registrant&#146;s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including
+its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">c) Evaluated the effectiveness
+of the registrant&#146;s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">d) Disclosed in this report any change in the registrant&#146;s internal control over financial reporting that occurred during the registrant&#146;s
+most recent fiscal quarter (the registrant&#146;s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant&#146;s internal control over financial reporting; and
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">5. The registrant&#146;s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant&#146;s auditors and the audit committee of registrant&#146;s board of directors (or persons performing the equivalent functions): </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant&#146;s ability to record, process, summarize and report financial
+information; and </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant&#146;s
+internal control over financial reporting. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="43%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 3, 2006</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Christopher P. Liddell</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Christopher P. Liddell</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chief Financial Officer</FONT></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>4
+<FILENAME>dex321.htm
+<DESCRIPTION>CERTIFICATION OF CEO
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certification of CEO</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Exhibit 32.1 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>CERTIFICATIONS PURSUANT TO </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(18 U.S.C. SECTION 1350) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In connection with the
+Quarterly Report of Microsoft Corporation, a Washington corporation (the &#147;Company&#148;), on Form 10-Q/A for the quarter ended December&nbsp;31, 2005, as filed with the Securities and Exchange Commission (the &#147;Report&#148;), Steven A.
+Ballmer, Chief Executive Officer of the Company, does hereby certify, pursuant to &#167;&nbsp;906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. &#167; 1350), that to his knowledge: </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company.
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="43%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Steven A. Ballmer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Steven A. Ballmer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chief Executive Officer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 3, 2006</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">[A signed original of this written statement required by Section&nbsp;906 has been provided to Microsoft
+Corporation and will be retained by Microsoft Corporation and furnished to the Securities and Exchange Commission or its staff upon request.] </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.2
+<SEQUENCE>5
+<FILENAME>dex322.htm
+<DESCRIPTION>CERTIFICATION OF CFO
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certification of CFO</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Exhibit 32.2 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>CERTIFICATIONS PURSUANT TO </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(18 U.S.C. SECTION 1350) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In connection with the
+Quarterly Report of Microsoft Corporation, a Washington corporation (the &#147;Company&#148;), on Form 10-Q/A for the quarter ended December&nbsp;31, 2005, as filed with the Securities and Exchange Commission (the &#147;Report&#148;), Christopher P.
+Liddell, Chief Financial Officer of the Company, does hereby certify, pursuant to &#167; 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. &#167; 1350), that to his knowledge: </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company.
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="43%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Christopher P. Liddell</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Christopher P. Liddell</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chief Financial Officer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">March 3, 2006</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">[A signed original of this written statement required by Section&nbsp;906 has been provided to Microsoft
+Corporation and will be retained by Microsoft Corporation and furnished to the Securities and Exchange Commission or its staff upon request.] </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

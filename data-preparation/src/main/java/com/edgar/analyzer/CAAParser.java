@@ -31,7 +31,7 @@ public class CAAParser implements AutoCloseable {
     }
 
     public String fetchActual10kText(String entire10kText) {
-        Pattern pattern = Pattern.compile("(?s)(?m)<TYPE>10-K.*?(</TEXT>)");
+        Pattern pattern = Pattern.compile("(?s)(?m)<TYPE>10-Q.*?(</TEXT>)");
         Matcher matcher = pattern.matcher(entire10kText);
 
         List<String> filtered10kText = new ArrayList<>();
@@ -87,7 +87,7 @@ public class CAAParser implements AutoCloseable {
     }
 
     public static void main(String[] args) throws Exception {
-        CAAParser parser = new CAAParser("data.txt");
+        CAAParser parser = new CAAParser("msft15.txt");
         System.out.println(parser.applyAlgorithm());
     }
 }

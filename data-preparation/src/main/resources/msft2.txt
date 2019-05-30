@@ -1,0 +1,741 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Jx+qx1HBV65uYzU3OgqABIa9RHlPNobEMqUPmMUTITdcGfftzUddbb/DxTqh+Ca8
+ C4at8fN4Po2E8JGirnAUiw==
+
+<IMS-DOCUMENT>0000891020-94-000070.txt : 19940505
+<IMS-HEADER>0000891020-94-000070.hdr.sgml : 19940505
+ACCESSION NUMBER:		0000891020-94-000070
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940331
+FILED AS OF DATE:		19940503
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	7372
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14278
+		FILM NUMBER:		94525884
+
+	BUSINESS ADDRESS:
+		STREET 1:		ONE MICROSOFT WAY #BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		2068828080
+
+	MAIL ADDRESS:
+		STREET 1:		ONE MICROSOFT WAY - BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>MICROSOFT FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+
+                                   FORM 10-Q
+
+             [x]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                 For the Quarterly Period Ended March 31, 1994
+
+
+             [ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                  For the Transition Period From _____ to ____
+
+
+                         Commission File Number 0-14278
+
+                             MICROSOFT CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+
+
+<TABLE>
+   <S>                                                    <C>
+              Washington                                  91-1144442
+   (State or other jurisdiction of                      (I.R.S. Employer
+    incorporation or organization)                     Identification No.)
+</TABLE>
+
+
+
+             One Microsoft Way, Redmond, Washington 98052-6399
+            (Address of principal executive office) (Zip Code)
+
+
+      Registrant's telephone number, including area code:  (206) 882-8080
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  [x]     No  [ ]
+
+        The number of shares outstanding of the registrant's common stock as of
+May 1, 1994 was 287,948,000.
+<PAGE>   2
+                             MICROSOFT CORPORATION
+                                   FORM 10-Q
+                      For the Quarter Ended March 31, 1994
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                       Page
+                                                                                       ----
+<S>                                                                               <C>
+Part I. Financial Information
+
+     Item 1. Financial Statements
+
+             a)   Income Statements
+                  for the Three and Nine Months Ended March 31, 1994 and 1993   . . .    1
+             b)   Balance Sheets
+                  as of March 31, 1994 and June 30, 1993  . . . . . . . . . . . . . .    2
+             c)   Cash Flows Statements
+                  for the Nine Months Ended March 31, 1994 and 1993   . . . . . . . .    3
+             d)   Notes to Financial Statements   . . . . . . . . . . . . . . . . . .    4
+
+     Item 2. Management's Discussion and Analysis of Financial
+             Condition and Results of Operations  . . . . . . . . . . . . . . . . . .    6
+
+Part II.  Other Information
+
+     Item 1. Legal Proceedings  . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+     Item 6. Exhibits and Reports on Form 8-K . . . . . . . . . . . . . . . . . . . .    8
+
+Signature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+</TABLE>
+<PAGE>   3
+                        Part I. Financial Information
+
+Item 1. Financial Statements
+
+MICROSOFT CORPORATION
+Income Statements
+(In millions, except earnings per share) (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                          Three Months Ended      Nine Months Ended
+                                                March 31               March 31
+                                            1994        1993       1994        1993
+                                           ------      -----      ------      ------
+<S>                                        <C>         <C>        <C>         <C>
+Net revenues                               $1,244      $ 958      $3,356      $2,714
+Cost of revenues                              208        161         552         453
+                                           ------      -----      ------      ------
+Gross profit                                1,036        797       2,804       2,261
+                                           ------      -----      ------      ------
+Operating expenses:
+  Research and development                    156        116         440         332
+  Sales and marketing                         359        313       1,008         892
+  General and administrative                   41         30         118          84
+  Litigation charge                           120         --         120          --
+                                           ------      -----      ------      ------
+    Total operating expenses                  676        459       1,686       1,308
+                                           ------      -----      ------      ------
+Operating income                              360        338       1,118         953
+Interest income - net                          26         21          74          59
+Other                                          (4)        (2)        (10)         (1)
+                                           ------      -----      ------      ------
+Income before income taxes                    382        357       1,182       1,011
+Provision for income taxes                    126        114         398         323
+                                           ------      -----      ------      ------
+Net income                                 $  256      $ 243      $  784      $  688
+                                           ======      =====      ======      ======
+Earnings per share                         $ 0.84      $0.80      $ 2.58      $ 2.28
+                                           ======      =====      ======      ======
+Weighted average shares outstanding           304        304         304         302
+                                           ======      =====      ======      ======
+
+</TABLE>
+
+
+                           See accompanying notes.
+
+
+                                       1
+
+<PAGE>   4
+MICROSOFT CORPORATION
+BALANCE SHEETS
+(In millions)
+
+<TABLE>
+<CAPTION>
+                                                        March 31    June 30
+                                                         1994(1)      1993
+                                                        --------    -------
+<S>                                                      <C>        <C>
+Assets
+Current assets:
+    Cash and short-term investments                      $3,143     $2,290
+    Accounts receivable - net                               522        338
+    Inventories                                             131        127
+    Other                                                   116         95
+                                                         ------     ------
+        Total current assets                              3,912      2,850
+Property, plant, and equipment - net                        918        867
+Other assets                                                 96         88
+                                                         ------     ------
+           Total assets                                  $4,926     $3,805
+                                                         ======     ======
+
+Liabilities and stockholders' equity
+Current liabilities:
+    Accounts payable                                     $  296     $  239
+    Accrued compensation                                     71         86
+    Income taxes payable                                    219        127
+    Litigation accrual                                      120         --
+    Other                                                   208        111
+                                                         ------     ------
+        Total current liabilities                           914        563
+                                                         ------     ------
+Stockholders' equity:
+    Common stock and paid-in capital --
+      shares authorized 1,000;
+      shares outstanding 286 and 282                      1,373      1,086
+    Retained earnings                                     2,639      2,156
+                                                         ------     ------
+        Total stockholders' equity                        4,012      3,242
+                                                         ------     ------
+           Total liabilities and stockholders' equity    $4,926     $3,805
+                                                         ======     ======
+
+</TABLE>
+
+(1) Unaudited
+
+                           See accompanying notes.
+
+
+                                      2
+<PAGE>   5
+MICROSOFT CORPORATION
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                      Nine Months Ended
+                                                           March 31
+                                                      1994          1993
+                                                     ------        ------
+<S>                                                  <C>           <C>
+Cash flows from operations
+  Net income                                         $  784        $  688
+  Depreciation and amortization                         161           112
+  Current liabilities                                   356           151
+  Accounts receivable                                  (187)         (212)
+  Inventories                                            (5)          (41)
+  Other current assets                                  (21)          (25)
+                                                     ------        ------
+    Net cash from operations                          1,088           673
+                                                     ------        ------
+Cash flows from financing
+  Common stock issued                                   193           185
+  Common stock repurchased                             (311)         (145)
+  Stock option income tax benefits                      109           166
+                                                     ------        ------
+    Net cash from financing                              (9)          206
+                                                     ------        ------
+Cash flows used for investments
+  Additions to property, plant, and equipment          (191)         (161)
+  Other assets                                          (32)          (12)
+  Short-term investments                               (714)         (621)
+                                                     ------        ------
+    Net cash used for investments                      (937)         (794)
+                                                     ------        ------
+Net change in cash and equivalents                      142            85
+Effect of exchange rates                                 (3)          (21)
+Cash and equivalents, beginning of period             1,013           791
+                                                     ------        ------
+Cash and equivalents, end of period                   1,152           855
+Short-term investments, end of period                 1,991         1,146
+                                                     ------        ------
+Cash and short-term investments, end of period       $3,143        $2,001
+                                                     ======        ======
+
+</TABLE>
+
+
+                           See accompanying notes.
+
+
+
+                                       3
+<PAGE>   6
+
+MICROSOFT CORPORATION
+
+NOTES TO FINANCIAL STATEMENTS
+(Unaudited)
+
+Basis of Presentation
+
+In the opinion of management, the accompanying balance sheets and related
+interim statements of income and cash flows include all adjustments necessary
+for their fair presentation.  Interim results are not necessarily indicative of
+results for a full year.  The information included in this Form 10-Q should be
+read in conjunction with the Management's Discussion and Analysis and financial
+statements and notes thereto included in the Microsoft Corporation 1993 Annual
+Report.
+
+Earnings Per Share
+
+Earnings per share is computed on the basis of the weighted average number of
+common shares outstanding plus the effect of outstanding stock options, using
+the treasury stock method.
+
+Agreement to Merge
+
+On February 14, 1994, Microsoft announced its agreement to merge with SOFTIMAGE
+Inc., a leading developer of high-performance 2D and 3D computer animation and
+visualization software.  Under the terms of the combination agreement,
+Microsoft will exchange approximately 1.6 million shares of its common stock
+for all of the outstanding shares of SOFTIMAGE.  It is anticipated the
+transaction will be accounted for as a pooling of interests.  Management does
+not expect the transaction to have a material financial effect on the Company's
+financial results.  The transaction is expected to be completed in late June
+1994.
+
+Stock Split
+
+On April 23, 1994, the Company's Board of Directors approved a two-for-one
+stock split, effective May 6, 1994.  Share and per share amounts have not been
+restated for the upcoming stock split.
+
+Contingencies
+
+On March 17, 1988, Apple Computer, Inc. ("Apple") brought suit against
+Microsoft and Hewlett-Packard Company for alleged copyright infringement in the
+U.S. District Court, Northern District of California.  The complaint included
+allegations that the visual displays of Microsoft(R) Windows(TM) version 2.03
+infringed Apple's copyrights and exceeded the scope of a 1985 Settlement
+Agreement between Microsoft and Apple.  The complaint sought to enjoin
+Microsoft from marketing Microsoft Windows version 2.03 or any derivative work
+based on Windows 2.03 and from otherwise infringing Apple's copyrights and
+sought damages resulting from the alleged infringement.  The complaint also
+alleged that Microsoft was a contributory infringer as to a Hewlett-Packard(R)
+product called NewWave(TM).
+
+The Company answered the complaint, denying Apple's allegations that the visual
+displays in Microsoft Windows version 2.03 infringe any protectible right of
+Apple, raising affirmative defenses, asserting counterclaims, and seeking
+damages in an unspecified amount resulting from Apple's actions.
+
+In a June 14, 1991 order, the Court permitted Apple to supplement its complaint
+to include Windows version 3.0 as an allegedly infringing work.  Later in 1991,
+the Court dismissed Microsoft's counterclaim in which it alleged that Apple had
+breached an implied covenant not to sue for infringement as to any visual
+displays covered by the 1985 Agreement.
+
+On February 11, 1992, Microsoft disclosed Apple's written claim for $4.4
+billion as damages from Microsoft's alleged infringement of Apple's copyrights.
+Apple later amended this claim to $5.5 billion and more recently to $4.9
+billion.  Microsoft considers Apple's damages claim to be insupportable under
+the copyright law and speculative.
+
+On August 24, 1993, the Court entered final judgment dismissing all of Apple's
+claims.  Apple has appealed a number of the Court's decisions in the case to
+the Ninth Circuit Court of Appeals.  Microsoft has cross-appealed the dismissal
+of its counterclaim and related issues.  All briefing on the appeal and
+cross-appeal has been completed. The date on which oral argument will be heard
+on the appeal and cross-appeal has not yet been scheduled.
+
+                                       4
+
+
+<PAGE>   7
+In June 1990, Microsoft was notified that it was the subject of a nonpublic
+investigation being conducted by the staff of the Federal Trade Commission
+("Commission").  During further communications, the Company learned that the
+staff wished to determine if Microsoft and the IBM Corporation had entered into
+an alleged anticompetitive horizontal agreement that was purportedly reflected
+in a joint press release issued at the COMDEX computer trade show in November
+1989.  In April 1991, Microsoft learned that, apparently due to complaints from
+third parties, the staff had decided to broaden the investigation to examine
+allegations that the Company has monopolized or has attempted to monopolize the
+market for operating systems, operating environments, computer software, and
+peripherals for personal computers.  The Company produced documents, witnesses,
+and other information to the FTC staff in connection with the investigation.
+
+In a letter dated August 20, 1993, the Commission notified Microsoft that its
+investigation had been closed.
+
+The Company was also notified on August 20, 1993 that the U.S. Department of
+Justice had been granted clearance by the Commission to investigate Microsoft.
+That investigation is underway, and the Company is cooperating.
+
+On July 20, 1993, Microsoft was notified by the Commission of the European
+Communities that the Directorate-General for Competition had received a
+complaint from Novell, Inc. against Microsoft.  The complaint claims that
+certain allegedly anti-competitive practices of Microsoft violated Articles 85
+and 86 of the EEC Treaty of Rome, and includes a request for interim measures.
+Microsoft is cooperating with the investigation of Novell's claims being
+conducted by the Directorate-General for Competition.
+
+On January 25, 1993, Stac Electronics ("Stac") of Carlsbad, California, filed
+suit against Microsoft in U.S. District Court in Los Angeles, alleging that
+Microsoft's MS-DOS(R) version 6 operating system infringed two patents owned by
+Stac relating to data compression techniques.  Stac sought monetary relief and
+an injunction prohibiting the sale of products that include Microsoft's
+DoubleSpace technology.  Microsoft denied that its DoubleSpace technology
+infringed the Stac patents, and asked the Court to declare those patents
+invalid and unenforceable for failing to meet the patent law requirements.
+Microsoft also filed counterclaims alleging that Stac's Stacker(R) compression
+products infringe a patent owned by Microsoft; that Stac engaged in unfair
+competition; and that Stac misappropriated Microsoft trade secrets relating to
+Microsoft's proprietary technology for integrating data compression into the
+MS-DOS operating system.
+
+On November 15, 1993, Judge Edward Rafeedie denied Microsoft's motion for
+summary adjudication that MS-DOS 6 does not infringe Stac's patents.  The trial
+of the matter commenced on January 18, 1994, and on February 23, 1994 the
+seven-person jury returned a verdict ruling that Microsoft's MS-DOS 6 operating
+system infringed the Stac patents and awarded Stac $120 million in compensatory
+damages.  Accordingly, Microsoft recorded a one-time charge of $120 million in
+its financial statements in the quarter ended March 31, 1994.  The jury
+determined that the infringement was not willful.  The jury also found that
+Stac had misappropriated and used in its Stacker products Microsoft's trade
+secret pre-loading feature, and awarded Microsoft $13.7 million in
+compensatory and punitive damages.
+
+Stac filed a motion to permanently enjoin Microsoft from making, using,
+selling, licensing, offering for sale, or soliciting the sale of MS-DOS 6.0 and
+MS-DOS 6.2, and all other Microsoft products that include the compression or
+decompression contained in MS-DOS 6, or otherwise infringing in any manner.
+Microsoft has opposed Stac's motion.  In addition, within days of the jury
+verdict, Microsoft began to provide its OEM licensees manufacturing in, or
+shipping to the U.S., a version of MS-DOS that does not include the
+disk-compression feature in question.  On April 11, 1994 Microsoft also began
+shipping in the U.S. the Microsoft MS-DOS operating system version 6.21
+Upgrade, which provides the same functionality as the MS-DOS 6.2 Upgrade
+without the DoubleSpace disk compression utility.
+
+Microsoft has filed a motion for a permanent injunction preventing Stac from
+selling any product containing Microsoft's trade secret pre-loading feature.
+The hearing on both motions is scheduled to occur on May 13, 1994.  Following
+entry of the judgment in the case, Microsoft intends to move to overturn the
+patent-infringement portion of the verdict or to seek a new trial.  If that
+motion is not successful, Microsoft will appeal the judgment to the Circuit
+Court of Appeals for the Federal Circuit, the federal appellate court that
+reviews all patent appeals.
+
+Management currently believes that the resolution of these matters will not
+have a material adverse financial effect on the Company.
+
+
+
+
+
+                                      5
+<PAGE>   8
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations
+
+Results of Operations
+
+Overview
+
+Microsoft's business strategy emphasizes the development and sale of a broad
+line of software products, including operating systems for personal computers
+("PCs"), office machines, and personal information devices; application
+programs; languages; and other hardware, book, and multimedia products.
+
+Revenues for the third quarter of fiscal 1994 increased 30% over revenues for
+the third quarter of fiscal 1993.  Revenues were $3.36 billion for the first
+nine months of fiscal 1994, an increase of 24% over the comparable period of
+the prior year.
+
+Product Groups
+
+Operating systems sales were $393 million in the third quarter of 1994,
+compared to $313 million recorded in the same period of 1993.  Systems revenues
+were $1.12 billion in the first nine months of 1994 compared to $854 million in
+the first nine months of 1993, an increase of 31%.  Revenues generated by both
+Microsoft MS-DOS and Microsoft Windows operating systems increased from the
+prior year, particularly through the original equipment manufacturer ("OEM")
+channel. During 1994, more than 80% of Windows units were sold through the
+OEM channel.
+
+Applications revenues were $798 million in the third quarter of 1994,
+increasing 33% from $600 million in the third quarter of 1993.  For the first
+three quarters of 1994, applications revenues were $2.08 billion, compared to
+$1.68 billion in 1993.  Increases in applications revenues were led by sales of
+Windows-based products, particularly Microsoft Office. Microsoft Office
+Standard includes Microsoft Excel, Microsoft Word, a Microsoft Mail license,
+and the Microsoft PowerPoint(R) presentation graphics program.  Microsoft
+Office Professional for Windows includes all of the above plus the Microsoft
+Access(R) database management program.  During the third quarter of 1994, the
+Company released new Windows-based versions of Microsoft Office Standard and
+Microsoft Office Professional, which contained the latest editions of Microsoft
+Excel and Microsoft PowerPoint.
+
+Hardware revenues were $53 million and $45 million in the third quarters of
+1994 and 1993.  On a year-to-date basis, hardware revenues were $157 million in
+1994 and $176 million in 1993.  The hardware product group's principal products
+are the Microsoft Mouse and BallPoint(R) mouse pointing devices.  Mouse
+revenues per unit are lower in the OEM channel than in the Company's retail
+channels, and the percentage of mouse sales through the OEM channel increased
+from the comparable quarter of the prior year.
+
+Sales Channels
+
+The Company has four major channels of distribution: OEM; U.S. and Canada;
+Europe; and Other International.  OEM channel revenues are license fees from
+original equipment manufacturers.  Sales in the retail channels are primarily
+to distributors and resellers.
+
+OEM revenues (primarily operating systems) grew 59% to $323 million from the
+$203 million recorded in the comparable quarter of the prior year.  For the
+first three quarters of 1994, OEM revenues were $846 million, compared to $514
+million in the first three quarters of 1993.  MS-DOS continues to be
+pre-installed on many PCs sold by original equipment manufacturers.  In
+addition, many major OEMs are also preinstalling the Microsoft Windows
+operating system on PCs, leading to increased revenues through the OEM channel.
+
+Revenues in the U.S. and Canada were $381 million in the third quarter of 1994
+compared to $322 million in 1993.  For the first three quarters of 1994,
+revenues were $1.13 billion, compared to $975 million in 1993.
+
+Revenues in Europe were $391 million in the third quarter of 1994 compared to
+$335 million the prior year.  For the first three quarters, European revenues
+were $989 million in 1994 and $963 million in 1993.
+
+Other International channel revenues showed strong growth, increasing to $149
+million in the third quarter of 1994 from $98 million in the third quarter of
+1993.  Sales in Japan were particularly strong.  On a year-to-date basis, Other
+International channel revenues grew 48%, to $389 million in 1994 from $262
+million in 1993.
+
+The Company's operating results are affected by foreign exchange rates.  Had
+the exchange rates in effect during the third quarter of the prior year been in
+effect during the third quarter of 1994, translated revenues would have been
+approximately 2% higher in the third quarter of 1994.  Since much of the
+Company's international manufacturing costs and operating expenses are incurred
+in local currencies, the total impact of exchange rates on net income is less
+than on revenues.
+
+
+
+
+
+                                      6
+<PAGE>   9
+Cost of revenues as a percentage of revenues decreased slightly to 16.7% in
+the third quarter of 1994 from 16.8% in the third quarter of 1993.  On a
+year-to-date basis, cost of revenues was 16.4% in 1994 and 16.7% in 1993.  Cost
+of revenues varies with the channel mix and product mix within channels.
+
+Research and development expenses increased 34% to $156 million, or
+12.5% of revenues in the third quarter of 1994 from $116 million, or 12.1% of
+revenues in the corresponding quarter of 1993.  For the first three quarters of
+1994, research and development expenses represented 13.1% of revenues, compared
+to 12.2% in 1993.  The increase in research and development expenses resulted
+primarily from planned hiring of software developers and higher levels of
+third-party development costs.
+
+Sales and marketing expenses increased 15% to $359 million from $313 million in
+the comparable quarter.  As a percentage of revenues, sales and marketing
+expenses were 28.9% and 32.7% in the respective third quarters of 1994 and 1993
+and 30.0% and 32.9% in the respective three quarters of 1994 and 1993.  The
+increase in absolute amounts of sales and marketing expenses was primarily due
+to increased marketing costs associated with the promotion of new products,
+particularly Microsoft Office.
+
+General and administrative expenses were 3.3% of revenues in the third quarter
+of 1994 and 3.1% of revenues in the third quarter of 1993.
+
+After a February 1994 jury verdict in the Stac Electronics lawsuit, the Company
+recorded a one-time charge of $120 million.
+
+Net interest income increased as a result of a larger investment portfolio
+generated by cash from operations, offset by lower interest rates.  Other
+expense did not fluctuate significantly.
+
+The effective income tax rate was 33% in the third quarter of 1994, compared to
+32% in 1993, reflecting newly enacted U.S. income tax laws.
+
+Net income for the third quarter of 1994 was $256 million.  Excluding the
+aforementioned one-time litigation charge, net income would have been $336
+million, a 38% increase over the $243 million in the corresponding quarter of
+1993.  Net income as a percentage of revenues was 20.6% in the third
+quarter of 1994 (27.0% excluding the litigation charge), compared with 25.4% in
+the third quarter of 1993.  On a year to date basis, net income as a percent of
+revenues was 23.4% (25.7% excluding the litigation charge) in 1994 and
+25.4% in 1993.
+
+Financial Condition
+
+The Company's cash and short-term investment portfolio totaled $3.14 billion at
+March 31, 1994 and represented 64% of total assets.  The portfolio is
+diversified among security types, industry groups, and individual issuers.  The
+Company's investments are investment grade and liquid.  The portfolio, while
+invested predominantly in U.S. dollar denominated securities, also includes
+foreign currency positions in anticipation of continued international
+expansion.
+
+Microsoft has no material long-term debt. The Company has available $70 million
+of standby multicurrency lines of credit.  These lines support foreign currency
+hedging and international cash management.  Stockholders' equity at March 31,
+1994 exceeded $4 billion.
+
+Cash generated from operations has been sufficient to fund the Company's
+investment in research and development activities and facilities expansion.  As
+the Company grows, investments will continue in research and development in
+existing and advanced areas of technology. Cash may also be used to acquire
+technology or to fund strategic ventures.  Additions to property, plant, and
+equipment are expected to continue, including new facilities and computer
+systems for research and development; sales and marketing; product support; and
+administrative staff.
+
+The exercise of stock options by employees provides additional cash.  Funds
+received have been used to repurchase the Company's common stock on the open
+market to provide shares for stock option and stock purchase plans.  This
+practice is continuing in 1994.
+
+Management believes existing cash and short-term investments together with
+funds generated from operations should be sufficient to meet the Company's
+operating requirements for the next 12 months.
+
+
+
+
+
+                                      7
+<PAGE>   10
+                          Part II.  Other Information
+Item 1.  Legal Proceedings
+
+The Company is currently involved in litigation with Apple Computer, Inc. and
+Stac Electronics.  Also, the U.S. Department of Justice and the
+Directorate-General for Competition of the Commission of the European
+Communities are investigating the Company.  See Notes to Financial Statements.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)    Exhibits
+
+       11. Computation of Earnings Per Share is on page 10.
+
+(b)    Reports on Form 8-K
+
+       No reports on Form 8-K were filed by the Company during the quarter ended
+       March 31, 1994.
+
+Items 2, 3, 4 and 5 are not applicable and have been omitted.
+
+
+
+
+
+                                      8
+<PAGE>   11
+                                  Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                       Microsoft Corporation
+
+Date:  May 3, 1994                     By: /s/   Michael W. Brown
+                                           -----------------------
+                                           Michael W. Brown,
+                                           Vice President, Finance
+
+                                           (Principal Financial and
+                                           Accounting Officer and
+                                           Duly Authorized Officer)
+
+
+
+
+
+                                      9
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+<PAGE>   1
+
+                                                                     Exhibit 11.
+
+MICROSOFT CORPORATION
+COMPUTATION OF EARNINGS PER SHARE
+(In millions, except earnings per share)
+
+<TABLE>
+<CAPTION>
+                                                             Three Months Ended    Nine Months Ended
+                                                                  March 31             March 31
+                                                               1994     1993         1994     1993
+                                                               ----     ----         ----     ----
+<S>                                                            <C>      <C>          <C>      <C>
+Weighted average number of common shares outstanding             286      280          284      276
+Common stock equivalents from outstanding stock options           18       24           20       26
+Average common and common stock equivalents outstanding          304      304          304      302
+                                                               =====    =====        =====    =====
+Net income                                                     $ 256    $ 243        $ 784    $ 688
+                                                               =====    =====        =====    =====
+Earnings per share(1)                                          $0.84    $0.80        $2.58    $2.28
+                                                               =====    =====        =====    =====
+</TABLE>
+
+(1)  Fully diluted earnings per share have not been presented because the
+     effects are not material.
+
+
+
+
+                                      10
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
