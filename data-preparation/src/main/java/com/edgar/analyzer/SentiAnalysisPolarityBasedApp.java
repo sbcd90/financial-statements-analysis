@@ -1,12 +1,14 @@
 package com.edgar.analyzer;
 
+import com.edgar.analyzer.data.cleansers.CAAParser;
+
 import java.util.List;
 
 public class SentiAnalysisPolarityBasedApp {
 
     public static void main(String[] args) throws Exception {
         CAAParser parser = new CAAParser("alphabet_data.txt");
-        String text = parser.applyAlgorithm();
+        String text = parser.applyAlgorithm("10-Q");
 
         PolarityBasedSentiAnalysis polarityBasedSentiAnalysis = new PolarityBasedSentiAnalysis();
         polarityBasedSentiAnalysis.readDictionaries();
