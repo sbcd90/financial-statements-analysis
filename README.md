@@ -57,3 +57,10 @@ mvn clean install
 ## Baseline comparison
 
 - Baseline comparison for MSFT, GOOGL, ORCL & TWTR available [here](https://github.com/sbcd90/financial-statements-analysis/blob/master/model-trainer/Baseline_Comparisons.ipynb).
+
+## References
+
+- [Common Annual Algorithm](https://airccj.org/CSCP/vol7/csit76615.pdf)
+- [loughran mcdonald financial dictionary](https://sraf.nd.edu/textual-analysis/resources/)
+- [CBOW based Financial Keyword Expansion](https://www.aclweb.org/anthology/D14-1152)
+- [Regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels)
